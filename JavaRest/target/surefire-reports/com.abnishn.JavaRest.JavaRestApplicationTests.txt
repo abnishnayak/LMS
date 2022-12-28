@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.abnishn.JavaRest.JavaRestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.745 s <<< FAILURE! - in com.abnishn.JavaRest.JavaRestApplicationTests
+contextLoads  Time elapsed: 0.007 s  <<< ERROR!
+java.lang.UnsupportedClassVersionError: com/abnishn/JavaRest/repository/UserRepo has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 60.0
+

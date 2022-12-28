@@ -1,0 +1,5 @@
+com\abnishn\JavaRest\controller\UserController.class
+com\abnishn\JavaRest\repository\UserRepo.class
+com\abnishn\JavaRest\service\UserService.class
+com\abnishn\JavaRest\JavaRestApplication.class
+com\abnishn\JavaRest\model\User.class
